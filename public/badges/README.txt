@@ -1,1 +1,0 @@
-The badges have been taken from the shields.io project (https://github.com/badges/shields) licensed under Creative Commons Zero v1.0 Universal (http://creativecommons.org/publicdomain/zero/1.0/deed.en).
