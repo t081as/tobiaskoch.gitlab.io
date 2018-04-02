@@ -1,0 +1,1 @@
+Thank you for your interest in this project, but I won't accept any contributions to this repository.
