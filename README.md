@@ -14,4 +14,4 @@ see [CONTRIBUTING.md](https://gitlab.com/tobiaskoch/tobiaskoch.gitlab.io/blob/ma
 see [AUTHORS.txt](https://gitlab.com/tobiaskoch/tobiaskoch.gitlab.io/blob/master/AUTHORS.txt)
 
 ## Copyright
-**tobiaskoch.gitlab.io** © 2017-2018  Tobias Koch.
+**tobiaskoch.gitlab.io** © 2017-2018  [Tobias Koch](https://www.tk-software.de).
